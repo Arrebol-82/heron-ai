@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "BT Grotesk";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("../assets/BTGrotesk-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "BT Grotesk";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("../assets/fonts/BTGrotesk-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "BT Grotesk";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("../assets/fonts/BTGrotesk-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "BT Grotesk";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("../assets/fonts/BTGrotesk-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Geist Mono";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("../assets/fonts/GeistMono-Medium.woff2") format("woff2");
+}
